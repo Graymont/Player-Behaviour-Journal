@@ -13,5 +13,26 @@ mengungguli Decision Tree yang hanya mencapai 39%. Model ini berpotensi digunaka
 personalisasi pengalaman bermain serta mendeteksi perilaku tidak wajar pemain. 
 </p>
 
-# Source Code
+# Content List
+- Dataset hasil dari auto generate di plugin PlayerBehaviour
+- Script Python untuk melakukan testing data berdasarkan model
+
+# Python Library Installation
+
+*Pandas*
+```pip install pandas```
+
+*Scikit-learn*
+```pip install scikit-learn```
+
+*Matplotlib*
+```pip install matplotlib```
+
+*Seaborn*
+```pip install seaborn```
+
+*Joblib*
+```pip install joblib```
+
+# PlayerBehaviour Spigot Plugin Source Code
 repository link: https://github.com/Graymont/Player-Behaviour
