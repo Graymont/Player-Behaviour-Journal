@@ -10,3 +10,6 @@ melatih model klasifikasi dengan algoritma Decision Tree dan Random Forest. Hasi
 menunjukkan bahwa algoritma Random Forest memberikan akurasi terbaik sebesar 74%, 
 mengungguli Decision Tree yang hanya mencapai 39%. Model ini berpotensi digunakan untuk 
 personalisasi pengalaman bermain serta mendeteksi perilaku tidak wajar pemain. 
+
+# Source Code
+repository link: <coming soon>
